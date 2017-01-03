@@ -1,4 +1,4 @@
-# cubetime
+# Rubiks-Cube-Solver
 Rubik's Cube Program
 
 Cube program takes user input of the integers 1,2,3,4,5 or 6 in a grid fashion to be placed in 2D arrays 
